@@ -1,5 +1,5 @@
 body{  
-    background-image: url(imagenes/logotipo.jpg);
+    background-color: blue;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -199,6 +199,7 @@ iframe{
     font-family: cursive;
     font-family: monospace;
 }
+
 
 
 
