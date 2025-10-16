@@ -35,7 +35,7 @@ h1{
 
 .menu  li{
    display: inline-block;
-   position: relative;
+   position: center;
 
 }
 
@@ -59,7 +59,8 @@ h1{
     border-radius:20px;
     margin: 20px;
     margin-top: 5px;
-    color: rgb(241, 95, 95); 
+    color: blanchedalmond;  
+    position: center;
     
 }
 
@@ -200,6 +201,7 @@ iframe{
     font-family: cursive;
     font-family: monospace;
 }
+
 
 
 
