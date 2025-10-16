@@ -36,7 +36,7 @@ h1{
 .menu  li{
    display: inline-block;
    position: center;
-
+   width: center;
 }
 
 .menu > li > a{
@@ -45,12 +45,13 @@ h1{
    color: #100f0f;
    font-family: open sans-serif;
    text-decoration: none;
-   width: center;
+   
 }
 
 .menu li a:hover{
     transition: all .2s;
     color: aquamarine;
+    position: center;
 
 }
 
@@ -201,6 +202,7 @@ iframe{
     font-family: cursive;
     font-family: monospace;
 }
+
 
 
 
