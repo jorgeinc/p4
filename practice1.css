@@ -36,7 +36,6 @@ h1{
 
 .menu  li{
    display: inline-block;
-   position: center;
    width: center;
 }
 
@@ -87,8 +86,8 @@ h1{
 }  
 
 .logo2{
-    width: 190px;
-    height: 150px;
+    width: 230px;
+    height: 180px;
     margin-right: auto;         
 }
 img{
@@ -204,6 +203,7 @@ iframe{
     font-family: cursive;
     font-family: monospace;
 }
+
 
 
 
