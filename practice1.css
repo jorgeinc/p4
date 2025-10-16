@@ -36,6 +36,7 @@ h1{
 
 .menu  li{
    display: inline-block;
+    position: center;
    width: center;
 }
 
@@ -203,6 +204,7 @@ iframe{
     font-family: cursive;
     font-family: monospace;
 }
+
 
 
 
