@@ -23,8 +23,9 @@ h1{
 
 .BarraMenu {
     width: 1000px;
+    posiion: center;
     margin: 30px ;
-   background: rgba(116, 203, 227, 0.751) ; 
+    background: rgba(116, 203, 227, 0.751) ; 
 }
 
 .BarraMenu ul {
@@ -50,7 +51,7 @@ h1{
 
 .menu li a:hover{
     transition: all .2s;
-    color: aquamarine;
+    color: blanchedalmond;;
     position: center;
 
 }
@@ -61,7 +62,7 @@ h1{
     margin: 20px;
     margin-top: 5px;
     color: blanchedalmond;  
-    position: center;
+    
     
 }
 
@@ -202,6 +203,7 @@ iframe{
     font-family: cursive;
     font-family: monospace;
 }
+
 
 
 
