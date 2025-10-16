@@ -23,7 +23,6 @@ h1{
 
 .BarraMenu {
     width: 1000px;
-    posiion: center;
     margin: 30px ;
     background: rgba(116, 203, 227, 0.751) ; 
 }
@@ -203,6 +202,7 @@ iframe{
     font-family: cursive;
     font-family: monospace;
 }
+
 
 
 
