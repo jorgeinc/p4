@@ -48,7 +48,7 @@ h1{
 }
 
 .menu li a:hover{
-    transition: all .2s;
+    transition: all .3s;
     color: blanchedalmond;
    
 
@@ -73,7 +73,7 @@ h1{
 
 .submenu li a{
   display: block;
-  padding: 10px;
+  padding: 20px;
   color: #f0f8ff;
   text-decoration: none;
 
@@ -202,6 +202,7 @@ iframe{
     font-family: cursive;
     font-family: monospace;
 }
+
 
 
 
