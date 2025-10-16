@@ -10,7 +10,7 @@ h1{
     margin-left: auto;
     margin-right: auto;
     border-style: solid;
-    border-radius: 55px;
+    border-radius: 30px;
     white-space: normal;
     width: 750px;
     border-width:thin;
@@ -200,6 +200,7 @@ iframe{
     font-family: cursive;
     font-family: monospace;
 }
+
 
 
 
