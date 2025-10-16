@@ -37,7 +37,6 @@ h1{
 .menu  li{
    display: inline-block;
    position: relative;
-   width: center;
 }
 
 .menu > li > a{
@@ -67,7 +66,7 @@ h1{
 }
 
 .submenu{
-    position: center;
+    position: absolute;
     background: #808089;
     width: center;
     display: none;
@@ -204,6 +203,7 @@ iframe{
     font-family: cursive;
     font-family: monospace;
 }
+
 
 
 
