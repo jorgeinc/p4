@@ -12,7 +12,7 @@ h1{
     border-style: solid;
     border-radius: 55px;
     white-space: normal;
-    width: 950px;
+    width: 750px;
     border-width:thin;
     font-family: cursive;
     color:white;
@@ -41,10 +41,11 @@ h1{
 
 .menu > li > a{
    display: block;
-   padding: 50px 50px;
+   padding: 20px 20px;
    color: #100f0f;
    font-family: open sans-serif;
    text-decoration: none;
+   width: center;
 }
 
 .menu li a:hover{
@@ -199,6 +200,7 @@ iframe{
     font-family: cursive;
     font-family: monospace;
 }
+
 
 
 
