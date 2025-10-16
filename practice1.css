@@ -15,7 +15,7 @@ h1{
     width: 950px;
     border-width:thin;
     font-family: cursive;
-    color:crimson;
+    color:white;
     text-decoration:underline;
     text-align: center;
     font-size:4em;
@@ -41,7 +41,7 @@ h1{
 
 .menu > li > a{
    display: block;
-   padding: 15px 20px;
+   padding: 50px 50px;
    color: #100f0f;
    font-family: open sans-serif;
    text-decoration: none;
@@ -199,6 +199,7 @@ iframe{
     font-family: cursive;
     font-family: monospace;
 }
+
 
 
 
